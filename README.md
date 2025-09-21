@@ -1,4 +1,4 @@
-# Unity-DLL-Locator-C-
+# Unity-DLL-Locator-C# VRChat world DLL locator or any dll haha
 Run:
 
 Tools → Diagnostics → List Managed DLLs
