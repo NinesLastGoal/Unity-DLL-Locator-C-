@@ -1,3 +1,8 @@
+FFailing to compile unsure of codebase. Need to work on at some point.
+
+
+
+
 # Unity-DLL-Locator-C# VRChat world DLL locator or any dll haha
 Run:
 
